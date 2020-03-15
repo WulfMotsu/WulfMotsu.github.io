@@ -49,5 +49,10 @@ body{
 .img_1{
 	height: 300px;
 	width: 300px;
-}	
+}
 
+.knop{
+	position: absolute;
+	top:47%;
+	left: 70%;
+}
